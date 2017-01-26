@@ -21,7 +21,7 @@ defaults: &defaults
     channel_summary: A wide variety of video material distributed by the Chaos Computer
       Club.
     channel_owner: CCC media team
-    channel_keywords: CCC Congress Hacking Security Netzpolitik
+    channel_keywords: CCC, Congress, Hacking, Security, Netzpolitik
 
 development:
   <<: *defaults
